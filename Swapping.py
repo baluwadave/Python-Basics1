@@ -7,3 +7,8 @@ def swapping (list,pos1,pos2):
 list = [25,55,6,79,85]
 pos1, pos2=0,3
 print(swapping(list,pos1, pos2))
+
+
+
+cars = ["Ford", "Volvo", "BMW"]
+print(len (cars))
